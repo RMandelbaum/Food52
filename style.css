@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: grey;
+}
+
+.m-cont{
+    background-color: rgb(219, 208, 86);
+    border: 2px solid black;
+    margin: 20px auto 20px auto;
+    padding: 5px 0 25px 0;
+    width: 450px;
+    /*margin: 0 auto;*/
+}
+
+
+
+
+.app-cont{
+    background-color: rgb(147, 224, 93);
+    border: 2px solid black;
+    width: 400px;
+    margin: 25px auto 15px auto;
+    border-radius: 10px;
+}
